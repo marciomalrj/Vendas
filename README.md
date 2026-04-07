@@ -165,7 +165,3 @@ Este projeto foi desenvolvido com foco em prática de análise de dados, aplican
 * Geração de insights de negócio
 
 ---
-
-## 📬 Contato
-
-Sinta-se à vontade para entrar em contato para sugestões ou melhorias.
