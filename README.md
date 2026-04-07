@@ -42,7 +42,7 @@ O dataset contém informações de vendas, incluindo:
 
 ---
 
-## 🔧 Feature Engineering
+## 🔧 Engenharia de Dados
 
 Foi criada uma nova variável "Faturamento" para análise de receita:
 
