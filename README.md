@@ -164,6 +164,5 @@ Este projeto foi desenvolvido com foco em prática de análise de dados, aplican
 * Análise exploratória de dados (EDA)
 * Visualização de dados
 * Estatística básica
-* Geração de insights de negócio
 
 ---
