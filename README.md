@@ -1,6 +1,7 @@
 # 📊 Análise de Vendas com Python
 
 Este projeto tem como objetivo analisar dados de vendas para identificar padrões de comportamento e os principais fatores que influenciam o faturamento. 
+
 Este faz parte da conclusão do MVP - Ciência de Dados da PUC-Rio
 
 A análise foi desenvolvida utilizando Python no Google Colab, com foco em gerar insights de negócio a partir de dados reais.
