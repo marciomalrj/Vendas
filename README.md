@@ -128,16 +128,6 @@ A análise demonstrou que o preço não impacta o volume de vendas, mas tem fort
 
 ---
 
-## 💡 Recomendações de Negócio
-
-* Priorizar produtos de maior valor agregado
-* Testar estratégias de aumento de preço
-* Investir em produtos premium
-* Direcionar esforços para regiões mais lucrativas
-* Otimizar o portfólio com foco em produtos de maior retorno
-
----
-
 ## 🚀 Proposições Futuras
 
 * Tentar expandir a atuação nas regiões mais lucrativas
