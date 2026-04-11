@@ -122,11 +122,9 @@ Correlação entre variáveis principais:
 
 ---
 
-## 📌 Conclusão
+## 🎯 Conclusão
 
-A análise demonstra que o faturamento da empresa é impulsionado principalmente pelo valor dos produtos, e não pelo volume de vendas.
-
-A baixa sensibilidade ao preço sugere oportunidades para estratégias de aumento de margem e posicionamento premium.
+A análise demonstrou que o preço não impacta o volume de vendas, mas tem forte influência sobre o faturamento. Além disso, foi identificada concentração de receita em determinados produtos e regiões. Esse resultado pode indicar um modelo de negócio voltado a valor e com dependência de determinados itens.
 
 ---
 
