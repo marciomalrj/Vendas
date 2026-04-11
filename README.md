@@ -18,11 +18,11 @@ A empresa busca entender melhor o desempenho de suas vendas, com foco em respond
 
 ## 🧠 Hipóteses
 
-1 - Produtos mais caros vendem menos?
+1️⃣ - Produtos mais caros vendem menos?
 
-2 - Regiões influenciam faturamento?
+2️⃣ - Regiões influenciam faturamento?
 
-3 - Existe concentração de receita por produto?
+3️⃣ - Existe concentração de receita por produto?
 
 ---
 
@@ -138,12 +138,11 @@ A análise demonstrou que o preço não impacta o volume de vendas, mas tem fort
 
 ---
 
-## 🚀 Possíveis Evoluções
+## 🚀 Proposições Futuras
 
-* Análise de lucro e margem
-* Criação de dashboard interativo (Streamlit)
-* Modelos preditivos de vendas
-* Segmentação por cliente ou região
+* Tentar expandir a atuação nas regiões mais lucrativas
+* Investigar o motivo de baixo desempenho em outras regiões
+* Reduzir foco em produtos de baixo desempenho
 
 ---
 
