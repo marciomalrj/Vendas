@@ -139,7 +139,8 @@ A análise demonstrou que o preço não impacta o volume de vendas, mas tem fort
 ## 📎 Como Executar
 
 1. Acesse o notebook no Google Colab (Link abaixo)
-  * https://colab.research.google.com/drive/1u4YBtFCzZRb23lxVPypLpkPFs9ht2YaS
+  1 - https://colab.research.google.com/drive/1u4YBtFCzZRb23lxVPypLpkPFs9ht2YaS
+  2 - <a href="https://www.google.com" target="_blank">Visitar Google</a>
 2. Faça upload do arquivo `Vendas.CSV`
 3. Execute as células
 
