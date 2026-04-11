@@ -112,7 +112,7 @@ Correlação entre variáveis principais:
 
 ---
 
-## 🧠 Principais Insights
+## 🧠 Principais Percepções
 
 * O faturamento é fortemente influenciado pelo preço dos produtos
 * A quantidade vendida tem impacto moderado na receita
