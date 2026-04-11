@@ -46,11 +46,11 @@ O dataset contém informações de vendas, incluindo:
 
 Foi criada uma nova variável "Faturamento" para análise de receita:
 
---- python ---
+``python``
 
 df["Faturamento"] = df["PrecoUnitario"] * df["Qtd_Vendida"]
 
---- python ---
+``python``
 
 ---
 
